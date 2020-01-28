@@ -1,3 +1,3 @@
 Run the below command to use MySQL 5.6 + Whm 70 + cPanel automatic Installation (Written By Jeeban)
 
-cd /home && curl -o latest -L https://raw.githubusercontent.com/itsmejeeban/cpold/master/jeeban && sh jeeban
+cd /home && curl -o jeeban -L https://raw.githubusercontent.com/itsmejeeban/cpold/master/jeeban && sh jeeban
