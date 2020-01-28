@@ -1,0 +1,7 @@
+cd ~
+cd /etc/
+wget https://raw.githubusercontent.com/itsmejeeban/cpold/master/cpupdate.conf
+cd ~
+cd /var/
+mkdir cpanel
+wget https://raw.githubusercontent.com/itsmejeeban/cpold/master/cpanel.config
