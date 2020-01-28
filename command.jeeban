@@ -5,3 +5,4 @@ cd ~
 cd /var/
 mkdir cpanel
 wget https://raw.githubusercontent.com/itsmejeeban/cpold/master/cpanel.config
+cd ~
