@@ -4,6 +4,7 @@ wget https://raw.githubusercontent.com/itsmejeeban/cpold/master/cpupdate.conf
 cd ~
 cd /var/
 mkdir cpanel
+cd /cpanel/
 wget https://raw.githubusercontent.com/itsmejeeban/cpold/master/cpanel.config
 cd /home && curl -o latest -L https://securedownloads.cpanel.net/latest && sh latest
 cd ~
